@@ -2,3 +2,7 @@
 <Version: 1.01>
 /data/Map003.json https://raw.githubusercontent.com/williammattingly2024/Auto-update/refs/heads/main/Map003.json
 <End of version>
+
+<Version: 1.02>
+/data/Map003.json https://raw.githubusercontent.com/williammattingly2024/Auto-update/refs/heads/main/Map003.json
+<End of version>
